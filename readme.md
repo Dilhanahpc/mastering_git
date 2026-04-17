@@ -1,3 +1,4 @@
-## Heyoo everyone, welcome to by guide
--yo chandupa here
+## welcome to Git
+
+-This is coming from 'dev-dill'
 -i am adding this from dilhana
